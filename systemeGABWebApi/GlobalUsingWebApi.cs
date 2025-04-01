@@ -1,0 +1,17 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using systemeGAB.DataClass.RequestModels;
+global using systemeGAB.DataClass.Services.Interfaces;
+global using systemeGAB.DataClass.EntityModels;
+global using systemeGAB.DataClass.RequestModels.Add;
+global using systemeGAB.DataClass.RequestModels.Update;
+global using Microsoft.AspNetCore.Authorization;
+global using System.Text;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.IdentityModel.Tokens;
+global using Microsoft.OpenApi.Models;
+global using systemeGAB.DataClass;
+global using systemeGAB.DataClass.Config;
+global using systemeGAB.DataClass.Services.Managers;
+global using systemeGAB.DataClass.EntityModels.Responses;

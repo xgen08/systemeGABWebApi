@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "systemeGABWebApi", "systemeGABWebApi\systemeGABWebApi.csproj", "{F1F6A10D-697F-4B62-921B-3DA0E63E9616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "systemeGAB.DataClass", "systemeGAB.DataClass\systemeGAB.DataClass.csproj", "{D6C11E1F-BB31-4980-9B4F-CC4E841F768B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F6A10D-697F-4B62-921B-3DA0E63E9616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F6A10D-697F-4B62-921B-3DA0E63E9616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F6A10D-697F-4B62-921B-3DA0E63E9616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F6A10D-697F-4B62-921B-3DA0E63E9616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C11E1F-BB31-4980-9B4F-CC4E841F768B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C11E1F-BB31-4980-9B4F-CC4E841F768B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C11E1F-BB31-4980-9B4F-CC4E841F768B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C11E1F-BB31-4980-9B4F-CC4E841F768B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46BABADA-C842-48E2-B775-49F6FA8C7254}
+	EndGlobalSection
+EndGlobal
